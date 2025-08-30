@@ -1,6 +1,7 @@
 {
   "packs": [
-    "ShahAli222.json"
+    "ShahAli222.json",
+    "PumpkinCube.json"
   ],
   "homeserver_url": "https://matrix.mazoochian.de"
 }
